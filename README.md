@@ -7,7 +7,7 @@ I rooted with Magisk and did not write anything for SuperSu. Assume after TWRP i
 Note: If tablet ever gets stuck booting. Hold Vol Down + Vol up + Power until it resets. Mine did lock up on a few reboots during the process.
 
 
-START>
+###################  [START]  ###################
 
 Install Lenovo Drivers
 
@@ -98,7 +98,9 @@ After updates and reboot, you're done!
 
 
 
-################## [END] #####################
+###################  [END]  ###################
+
+
 
 
 --------------------------------------------------------------------------

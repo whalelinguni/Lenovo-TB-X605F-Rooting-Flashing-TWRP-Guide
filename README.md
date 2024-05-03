@@ -16,9 +16,9 @@ System > About > tap build number 10 times to enable developer options
 
 System > Developer Options > Enable USB Debugging
 
-				> Disable Verify Apps Over ADB
+System > Developer Options > Disable Verify Apps Over ADB
     
-				> Enable OEM Unlocking
+System > Developer Options > Enable OEM Unlocking
     
 Security Settings > Remove Device Lock (PIN, fingerprint, whatever you are using) and set it to NONE.
 

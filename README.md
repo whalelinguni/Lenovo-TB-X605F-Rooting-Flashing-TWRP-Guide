@@ -4,7 +4,6 @@ Lenovo TB-X605F Rooting and Flashing Guide
 All files and tools needed should be included in this repo.
 
 I rooted with Magisk and did not write anything for SuperSu. Assume after TWRP installed just install SuperSu with TWRP as usual and done.
-
 Note: If tablet ever gets stuck booting. Hold Vol Down + Vol up + Power until it resets. Mine did lock up on a few reboots during the process.
 
 
@@ -13,13 +12,9 @@ START>
 Install Lenovo Drivers
 
 System > About > tap build number 10 times to enable developer options
-
 System > Developer Options > Enable USB Debugging
-
 System > Developer Options > Disable Verify Apps Over ADB
-    
 System > Developer Options > Enable OEM Unlocking
-    
 Security Settings > Remove Device Lock (PIN, fingerprint, whatever you are using) and set it to NONE.
 
 

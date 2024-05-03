@@ -4,7 +4,7 @@ Lenovo TB-X605F Rooting and Flashing Guide
 All files and tools needed should be included in this repo.
 
 I rooted with Magisk and did not write anything for SuperSu. Assume after TWRP installed just install SuperSu with TWRP as usual and done.
-Note: If tablet ever gets stuck booting. Hold Vol Down + Vol up + Power until it resets. Mine did lock up on a few reboots during the process.
+[Note]: If tablet ever gets stuck booting. Hold Vol Down + Vol up + Power until it resets. Mine did lock up on a few reboots during the process.
 
 
 ###################  [START]  ###################
@@ -32,9 +32,8 @@ fastboot oem unlock-go
 
 If above fails. Use RSA to 'recover' the tablet by flashing the lastest stock rom. I flashed TB_X605F_S210273_221107_ROW Did not note previous version but IIRC had a build date of 2019? Tablet was bought new around 2019 and never used until 2024
 
-Note: Copy TB_X605F_S210273_221107_ROW into C:\ProgramData\RSA\Download\RomFiles to skip downloading twice if you already downloaded both archives.
 
-Note 2: I was able to enable OEM Unlocking in Developer Tools on my previous rom. However the unlock commands would not work, tried all iterations. Command not found. Flashed TB_X605F_S210273_221107_ROW and OEM Unlock was off and greyed out. Checked devinfo with BLUnlocker, and hex was set to be unlocked (flashed it back anyways). Developer Tools still showed off and greyed out. Rebooted to bootloader, ran fastboot oem unlock-go, and unlocked successfully. 
+[Note]: I was able to enable OEM Unlocking in Developer Tools on my previous rom. However the unlock commands would not work, tried all iterations. Command not found. Flashed TB_X605F_S210273_221107_ROW and OEM Unlock was off and greyed out. Checked devinfo with BLUnlocker, and hex was set to be unlocked (flashed it back anyways). Developer Tools still showed off and greyed out. Rebooted to bootloader, ran fastboot oem unlock-go, and unlocked successfully. 
 
 See appendix for information on BLUnlocker
 

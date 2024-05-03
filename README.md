@@ -13,10 +13,15 @@ START>
 Install Lenovo Drivers
 
 System > About > tap build number 10 times to enable developer options
+
 System > Developer Options > Enable USB Debugging
+
 				> Disable Verify Apps Over ADB
+    
 				> Enable OEM Unlocking
+    
 Security Settings > Remove Device Lock (PIN, fingerprint, whatever you are using) and set it to NONE.
+
 
 Unlock Bootloader:
 

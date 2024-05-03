@@ -117,7 +117,7 @@ PC and some brain to understand....
 6. Mention port number and full path to "*.mbn" file (eg. D:\where\every\it\is\prog_emmc_firehose_8917_ddr.mbn)
 7. A file named " devinfo.img " will be dumped to the working dir. Edit it using an HEX editor as shown below.
 
-![[[1607766281870.png](https://github.com/whalelinguni/Lenovo-TB-X605F-Rooting-Flashing-TWRP-Guide/blob/main/1607766281870.png?raw=true)]]
+![BLUnlocker](https://github.com/whalelinguni/Lenovo-TB-X605F-Rooting-Flashing-TWRP-Guide/blob/main/1607766281870.png?raw=true)]
 
 8. Save the devinfo.img after editing and run " unlock.bat "
 - Reboot after success message.
@@ -127,6 +127,7 @@ PC and some brain to understand....
 
 
 NOTES:
+
 https://xdaforums.com/t/rescue-and-smart-assistant-lmsa-motorola-lenovo-only.3951714/
 
 https://xdaforums.com/t/root-tb-x605f-l-magisk-for-those-who-cant-use-twrp.4296469/

@@ -102,8 +102,8 @@ PC and some brain to understand....
 **Procedure:**  
 
 1. Install the drivers and hex editor.
-2. Clone this repo to PC - [https://github.com/Naveen3Singh/BLUnlocker](https://github.com/Naveen3Singh/BLUnlocker) (Thanks to the dev ![(y)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Thumbs up    (y)") )
-3. Extract the firehose file from stock rom. (eg. "prog_emmc_firehose_8917_ddr.mbn" for TB-X304)
+2. Extract BLUnlocker-Master
+3. Step 3!
 4. Boot into edl mode using key combo  
     or using adb
     
